@@ -1,0 +1,23 @@
+Done bro ✅ **ab sirf ONE file hai.**
+
+### 🚀 Direct GitHub file
+
+[**⬇️ Download `index.html` — FINAL PROJECT**](sandbox:/mnt/data/index.html)
+
+### GitHub par sirf ye upload karo:
+
+```text
+index.html
+```
+
+**Bas.** ❌ `script.js` nahi
+**Bas.** ❌ `style.css` nahi
+**Bas.** ❌ ZIP/extract nahi
+
+Is `index.html` ke andar **HTML + CSS + JavaScript + 3D-style item visuals** already included hain.
+
+GitHub mein upload ke baad:
+
+**Repository → Settings → Pages → Deploy from branch → main → `/ (root)` → Save**
+
+Phir tumhara **FindIT AI live website** ban jayega. 🔥
